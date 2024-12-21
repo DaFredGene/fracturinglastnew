@@ -1,7 +1,0 @@
-matplotlib==3.9.0
-matplotlib-inline==0.1.7
-numpy==1.26.4
-obspy==1.4.1
-pandas==2.2.2
-pyvista==0.44.2
-streamlit==1.38.0
